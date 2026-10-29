@@ -46,5 +46,3 @@ $$\text{Puan} = (6 - \text{Triyaj}) \times 20 + \text{Yaş Bonusu} + \text{Kroni
 - **Kronik Hastalık Bonusu:** Kronik rahatsızlığı bulunan hastalar için $+10$ puan.
 
 ---
-
-## 📐 UML Sınıf Diyagramı
